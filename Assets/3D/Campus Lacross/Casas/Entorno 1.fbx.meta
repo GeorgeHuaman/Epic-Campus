@@ -3,7 +3,177 @@ guid: 6dd7bf256de4a564c955cc68f7a891e8
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseBastions_baseColor
+    second: {fileID: 2800000, guid: 35670db8b02a4e24babbc1ccab4ea54b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseBastions_normal
+    second: {fileID: 2800000, guid: 12b8eaa97e0c7894587c2b1e652920bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseCastleUp_baseColor
+    second: {fileID: 2800000, guid: 91f7d807fa1b1c148aceeec6959959d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseCastleUp_normal
+    second: {fileID: 2800000, guid: 03810dfaac4cd094e8591c56091779c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseCastle_02_baseColor
+    second: {fileID: 2800000, guid: f6ed46c029e5ba044a8ca808d8db4e1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseCastle_02_normal
+    second: {fileID: 2800000, guid: 220999ca179bb5a44901778faf842a4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseCastle_baseColor
+    second: {fileID: 2800000, guid: 95fe3d7a5875ab349b5a653ac88d7333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BaseCastle_normal
+    second: {fileID: 2800000, guid: 4de50443f7a62a645ad493fa7615fa7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BridgeControl_baseColor
+    second: {fileID: 2800000, guid: bd899f7eab68dad44b6170491975df22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BridgeControl_normal
+    second: {fileID: 2800000, guid: 534ebf43adfc79647b1fbdad020dca3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CannonBall_baseColor
+    second: {fileID: 2800000, guid: 6ee125e64822b6f4da885952252e0240, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CannonBall_normal
+    second: {fileID: 2800000, guid: 909969b72514a2e4987ade8a43648594, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Envoirement_02_baseColor
+    second: {fileID: 2800000, guid: 0c3d3db662b94a346abd4eadf8d42a5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Envoirement_02_normal
+    second: {fileID: 2800000, guid: a821cfa8b6fc4b649b9f31032481d49a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Envoriement_01_baseColor
+    second: {fileID: 2800000, guid: e51eef4390e69fe4b8ad3cd77936e3bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Envoriement_01_normal
+    second: {fileID: 2800000, guid: c3468a6c9a04d3c49bfd799ba9f037ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FrontBastions_baseColor
+    second: {fileID: 2800000, guid: 623967ae7c1e9e34fa8f70519d9f5de5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FrontBastions_normal
+    second: {fileID: 2800000, guid: 58fd495dd00fbd64d88ccc1a85126af0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_Rampart_baseColor
+    second: {fileID: 2800000, guid: 4d4d41882fab7bd44be2bc38139accb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Front_Rampart_normal
+    second: {fileID: 2800000, guid: b1ba0393715088e4db53a9efe649ed6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalDoor_baseColor
+    second: {fileID: 2800000, guid: 70f0e70574306544cbd7233ffe8b83c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MetalDoor_normal
+    second: {fileID: 2800000, guid: 2853aac9e5a19d848bde34c1b649c37a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RampartStone_baseColor
+    second: {fileID: 2800000, guid: f0db9fe6864d4ed4392dfac4371796e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RampartStone_normal
+    second: {fileID: 2800000, guid: 093ce0eda2051264aa90d0722c2d5039, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rampart_baseColor
+    second: {fileID: 2800000, guid: 4290226386700534f8c7e9e1aa421d84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rampart_normal
+    second: {fileID: 2800000, guid: f28ce7e59ff718243abe1cef2bc7fae0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rope_baseColor
+    second: {fileID: 2800000, guid: 42fb9758f67b8384096a2f61d1e2bb24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rope_normal
+    second: {fileID: 2800000, guid: 9f17b9a1a66c31445aea7a688857116e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SideBastions_baseColor
+    second: {fileID: 2800000, guid: b8a2d792e2a68b94ab3e74fc51164e59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SideBastions_normal
+    second: {fileID: 2800000, guid: acd526c9edd4eff4b8bf0b2ac4419273, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stairs_baseColor
+    second: {fileID: 2800000, guid: c032a43292b8072428c2ac30794d77b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stairs_normal
+    second: {fileID: 2800000, guid: 75adc986edf21884f9ac5a7f2295750b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodDoor_baseColor
+    second: {fileID: 2800000, guid: 56889f11e173b4b4b9a6e7c6272c3df7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodDoor_normal
+    second: {fileID: 2800000, guid: bb6aa5a0004a1334695ffa0890f601ab, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
