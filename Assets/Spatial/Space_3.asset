@@ -13,17 +13,18 @@ MonoBehaviour:
   m_Name: Space_3
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: d0f9irv2t4p363d577ybii45
   packageName: Campus Lacross
-  thumbnail: {fileID: 0}
+  thumbnail: {fileID: 2800000, guid: f2dfcd55e912c9b43934aae8f5735ba2, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: whphen5b7smvlnzps1vcp
   scene: {fileID: 102900000, guid: 394003d31c15dc94ab40ecdd10889699, type: 3}
-  csharpAssembly: {fileID: 0}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 0bf710356a0efa746adf83c55952b652,
+    type: 3}
   embeddedPackageAssets: []
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
-    serverCapacitySetting: 1
+    serverCapacitySetting: 0
     serverInstanceCapacity: 16
