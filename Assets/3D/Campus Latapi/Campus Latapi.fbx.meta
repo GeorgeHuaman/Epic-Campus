@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 25cf246b7af354d49858c9dfea711b32
+guid: 1fa0515cda2528c4a9553b8e6893e94b
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,118 +7,73 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Blanco Lizo
-    second: {fileID: 2100000, guid: 855e302e571987348beaf2b918e90d44, type: 2}
+      name: 01-logoPL (1)
+    second: {fileID: 2100000, guid: 36fa9ac13f5b19945a559f7441adff48, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Concrete
-    second: {fileID: 2100000, guid: de328df7b8e72d04fba492294db70b99, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ESPIRAL
-    second: {fileID: 2100000, guid: bf6a0605e54f0764abf38d663368a9d9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Logo CI_Mesa de trabajo 1 copia 6
-    second: {fileID: 2100000, guid: 6a72d42f547f14b40bd539d433c0073b, type: 2}
+      name: Material.001
+    second: {fileID: 2100000, guid: 6247e93c116a2b44f9f069b9189f4f87, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.002
-    second: {fileID: 2100000, guid: 9df63f22c08afc443beeec4bc40f83f8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.003
-    second: {fileID: 2100000, guid: a91ea0d1c5f0fe540b4c749472e6dce7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.005
-    second: {fileID: 2100000, guid: ff62799929e1ced40929fa4cf140bf84, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: MetalGalvanizedSteelWorn001
-    second: {fileID: 2100000, guid: 9e7c2f55500e0704384fac1512e780e3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Piso
-    second: {fileID: 2100000, guid: fd003b37fe25f144f979c3367fc724ff, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: PlantAgave002_4K
-    second: {fileID: 2100000, guid: 2271fe6d39f6468458dc5840d40d1245, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: StuccoRoughCast
-    second: {fileID: 2100000, guid: f1fcb83c3efe8a74baedd54731c5c2cd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: StuccoRoughCast001
-    second: {fileID: 2100000, guid: 6b4ac92664621754eb69c339ddbecb14, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: TilesTerracottaBeigeSquareStacked001
-    second: {fileID: 2100000, guid: 07263424646366548bdf59b537f243a1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tree.0
-    second: {fileID: 2100000, guid: a23a4726b80ee824fac2e022f4ae5b0d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Tree.1
-    second: {fileID: 2100000, guid: 7ca08ee7025e23c45bababdbba113705, type: 2}
+    second: {fileID: 2100000, guid: eea447d38d22161469c2466db83405cf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Vidrio
-    second: {fileID: 2100000, guid: 8e6ee22ccf587404ba7fa049bc837d26, type: 2}
+    second: {fileID: 2100000, guid: a1a86f0fae1c1a7499d926306b0847ef, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: cobblestone_03
-    second: {fileID: 2100000, guid: 3821cd6bf52e2a543ba1d911aab31054, type: 2}
+      name: painted_plaster_wall
+    second: {fileID: 2100000, guid: 0019a73c51c54fe498105983598744c9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: concrete_floor_worn_001
-    second: {fileID: 2100000, guid: 23e716412a72cec468df5ff390874088, type: 2}
+      name: painted_plaster_wall.001
+    second: {fileID: 2100000, guid: dc9709cd872bbc14aa375b717b1c402f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: gravel_concrete
-    second: {fileID: 2100000, guid: 1a7090d6d4ce0544d8b10b0c29448b04, type: 2}
+      name: plastered_wall_03
+    second: {fileID: 2100000, guid: a83bfd7b599c0ac43a0ef8e93d150ce8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: gravel_concrete.001
-    second: {fileID: 2100000, guid: ae72b11c908861d47a610488aac92259, type: 2}
+      name: plastered_wall_03.001
+    second: {fileID: 2100000, guid: 1640892d73cafa545894bdd57a1eb313, type: 2}
   - first:
-      type: UnityEngine:Material
+      type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: gravel_concrete.002
-    second: {fileID: 2100000, guid: 14d234f002432f74aa03ba6ed1672dda, type: 2}
+      name: 01-logoPL (1)
+    second: {fileID: 2800000, guid: 97b8d01ad5b7d754ab3f899a1475ae65, type: 3}
   - first:
-      type: UnityEngine:Material
+      type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: palm_tree_bark
-    second: {fileID: 2100000, guid: dc8ef3f0ebd40164e8815f444c9008bc, type: 2}
+      name: painted_plaster_wall_nor_gl_1k
+    second: {fileID: 2800000, guid: 52e9002fd9c8fce4faf5d3b044cfd2ae, type: 3}
   - first:
-      type: UnityEngine:Material
+      type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: palm_tree_bark.001
-    second: {fileID: 2100000, guid: c333b8bf15ed9c44cb35cdc778eabdca, type: 2}
+      name: painted_plaster_wall_rough_1k
+    second: {fileID: 2800000, guid: 6e2b856c892fc034b8db89a82a5c76e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastered_wall_03_diff_1k
+    second: {fileID: 2800000, guid: 07f852d9fc39df8489187721152dbec6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastered_wall_03_nor_gl_1k
+    second: {fileID: 2800000, guid: f15df9a79b7094745aeeadbf7ebd38dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastered_wall_03_rough_1k
+    second: {fileID: 2800000, guid: 11d77d4ed51fda246bbd98f0552bc0c8, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
