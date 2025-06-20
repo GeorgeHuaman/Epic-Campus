@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fence Low
+* source:	https://sketchfab.com/3d-models/fence-low-12b5e7216c28431da88b63502faa7c6b
+* author:	kir.9I (https://sketchfab.com/kir.9I)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fence Low" (https://sketchfab.com/3d-models/fence-low-12b5e7216c28431da88b63502faa7c6b) by kir.9I (https://sketchfab.com/kir.9I) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
