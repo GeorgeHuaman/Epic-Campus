@@ -1,24 +1,9 @@
 fileFormatVersion: 2
-guid: d736e6c99b0789949b35e543ea7cc511
+guid: 25cf246b7af354d49858c9dfea711b32
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ecca
-    second: {fileID: 2100000, guid: 26e9aeb036845bf46bb578a295d0c285, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Piso
-    second: {fileID: 2100000, guid: eaf2030916280ac4790c6f86f0b05b2b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Puertas
-    second: {fileID: 2100000, guid: a9ce89869e4128940b9865ad04106f4c, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -52,7 +37,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 2
-    addColliders: 1
+    addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1
