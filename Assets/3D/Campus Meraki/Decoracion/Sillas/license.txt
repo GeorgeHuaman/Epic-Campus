@@ -1,0 +1,11 @@
+Model Information:
+* title:	Waiting Chair
+* source:	https://sketchfab.com/3d-models/waiting-chair-3bd109dcaaab463b92e747ad6f95f46f
+* author:	RaflyNaHa (https://sketchfab.com/RaflyNaHa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Waiting Chair" (https://sketchfab.com/3d-models/waiting-chair-3bd109dcaaab463b92e747ad6f95f46f) by RaflyNaHa (https://sketchfab.com/RaflyNaHa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

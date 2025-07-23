@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMX Bikes
+* source:	https://sketchfab.com/3d-models/bmx-bikes-5fbb233a8a374298919ba1b3134691f4
+* author:	Elvair Lima (https://sketchfab.com/elvair)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMX Bikes" (https://sketchfab.com/3d-models/bmx-bikes-5fbb233a8a374298919ba1b3134691f4) by Elvair Lima (https://sketchfab.com/elvair) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
