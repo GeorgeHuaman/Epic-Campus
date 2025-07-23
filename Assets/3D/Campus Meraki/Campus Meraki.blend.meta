@@ -3,7 +3,47 @@ guid: b70bf509adb92a44ea5467bc8be94d6f
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03_Logo_MerakiSchool_05042021-02
+    second: {fileID: 2100000, guid: 70b299ee64f4fec489d017d5c004b740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03_Logo_MerakiSchool_05042021-10
+    second: {fileID: 2100000, guid: 21fd2ac2061c71e4b9ca48998a61728d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marco
+    second: {fileID: 2100000, guid: 695856b673fb1f5478c39d630b6985c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidrio
+    second: {fileID: 2100000, guid: f9ef4032a94a39442b4686827f613cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_floor_worn_001
+    second: {fileID: 2100000, guid: a7ed00acbcb0fd54b977474912ab01cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_floor_worn_001.001
+    second: {fileID: 2100000, guid: 9b28ab7f18328354ab68318ca106d177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: painted_plaster_wall
+    second: {fileID: 2100000, guid: 90ebcbf3f17c1a14eaddb402da232f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: painted_plaster_wall.001
+    second: {fileID: 2100000, guid: 09839ed135a0c25488e102350ea75ffc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
