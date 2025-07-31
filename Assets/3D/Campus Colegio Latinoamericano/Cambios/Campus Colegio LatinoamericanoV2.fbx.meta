@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: d2f31a2680c344f418b06bdf4d2db8d3
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOGO_LATINO-removebg-preview
+    second: {fileID: 2100000, guid: 1efb906daee2dc8449d7f207bc42fc96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Low_PolyPlant
+    second: {fileID: 2100000, guid: 2625d445f3eaa224e86652e9e1bfba58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 73ade6fa6ab1bf34eaa5857694abdf05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 8ef93aacf42a6bb47bfa9fe9d5648580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 204a22cb724e2404fb9c355c6c944924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OldBench
+    second: {fileID: 2100000, guid: 43af5095ea77db840aeeacc1cbcba8f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidrio
+    second: {fileID: 2100000, guid: 6d9c911c77fff33409edc8013e4a404f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Web 1920 \u2013 1"
+    second: {fileID: 2100000, guid: 20e0269fc9b3ffd4fafdcdc905c0bbd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Web 1920 \u2013 2"
+    second: {fileID: 2100000, guid: 34a23c1d598939b4da0319c0a3d8acdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Web 1920 \u2013 3"
+    second: {fileID: 2100000, guid: fc464bdeba3a1a449981043eabf04b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 5b724097e27c79e4d9479bd98b5e5006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete (Dirty)
+    second: {fileID: 2100000, guid: ad5bee8bffb711c49855405794ecf442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_floor_worn_001
+    second: {fileID: 2100000, guid: 687cdc0466bfa0d4bae37b84eadf0249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_floor_worn_001.001
+    second: {fileID: 2100000, guid: 8d83d27f962b50d4ea355b18263c5a61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: 81155a925a2f66646aec866a87491574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metals
+    second: {fileID: 2100000, guid: 3dc58c3ee20313540ac5eec152217bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: painted_plaster_wall
+    second: {fileID: 2100000, guid: 6c6c12290cc0e124293aa372b3f87ca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: painted_plaster_wall.001
+    second: {fileID: 2100000, guid: 8614745d087f313488fa92d68573a668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: umbrella_fabric
+    second: {fileID: 2100000, guid: 0238ece941099184b82e96c99345bed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: umbrella_wood
+    second: {fileID: 2100000, guid: f07f547a0d33e6f40b2fb13f3cefaee3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LOGO_LATINO-removebg-preview
+    second: {fileID: 2800000, guid: 7fbab343937929f47accd4bccc658f45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Low_Poly_Plant_PottedPlants_BaseColor
+    second: {fileID: 2800000, guid: ecdb8db916aa9ba409561e4be7612759, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Low_Poly_Plant_PottedPlants_Normal
+    second: {fileID: 2800000, guid: 412199d2896ec4a44b2a55453b57fb97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Low_Poly_Plant_PottedPlants_Roughness
+    second: {fileID: 2800000, guid: c328972ed49f1874a81107540fae79a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OldBench_Normal
+    second: {fileID: 2800000, guid: ef3bf230d19f1d946a30ea4b87f8d651, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plantas
+    second: {fileID: 2800000, guid: 6bac980c1a82a4949be437b8124b967a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Web 1920 \u2013 1"
+    second: {fileID: 2800000, guid: 7d79478e6ccd0d9408819a612696853a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Web 1920 \u2013 2"
+    second: {fileID: 2800000, guid: 4c19b440075e8d649ae495511e5a42c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Web 1920 \u2013 3"
+    second: {fileID: 2800000, guid: faa4955ccec7be74787be70aeeb4a7e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhatsApp Image 2025-07-07 at 12.39.06
+    second: {fileID: 2800000, guid: 1571069a8d6a3ee46ae95e45239ef5de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_floor_worn_001_diff_1k
+    second: {fileID: 2800000, guid: ba46c4d9bca22bf49bb4d3d4d8f10be1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_floor_worn_001_nor_gl_1k
+    second: {fileID: 2800000, guid: a643a15f6fe0ec447a9b44ee83848b2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: concrete_floor_worn_001_rough_1k
+    second: {fileID: 2800000, guid: 175e9d0b2dad2ec419358c71c5b047bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: painted_plaster_wall_nor_gl_1k
+    second: {fileID: 2800000, guid: 1e1a9e44b6eb9864a89564d6a85f859b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: painted_plaster_wall_rough_1k
+    second: {fileID: 2800000, guid: 36618266a83b19d468e9f8a6266e690f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: palntqasnormal
+    second: {fileID: 2800000, guid: fef30bab18b5dc04ebfebc7ed2588699, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uhnlfbvn_4K_Albedo
+    second: {fileID: 2800000, guid: 56b3ebf30da553248b83e6253c610602, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uhnlfbvn_4K_Roughness
+    second: {fileID: 2800000, guid: 0028728854a490f4496212edd7915a9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uhnlfbvn_4K_Specular
+    second: {fileID: 2800000, guid: 5232bfb211f63e54ead1626370fa4c23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_d
+    second: {fileID: 2800000, guid: ab4f5301cec2cb74ebb7be69a66add67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wood_r
+    second: {fileID: 2800000, guid: 1af1c644196fccc46b9eabe927056917, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 2
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.005
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
